@@ -1,6 +1,6 @@
 {
-    "name": "turtlecoin-cryptonote-util",
-    "version": "0.0.7",
+    "name": "cirquity-cryptonote-util",
+    "version": "0.0.1",
     "main": "cryptonote",
     "gypfile": true,
     "author": {
@@ -8,12 +8,12 @@
         "email": "lucasjonesdev@hotmail.co.uk"
     },
     "contributors": [
-        "Brandon Lehmann <brandonlehmann@gmail.com>"
+        "Deeterd <deeterd@pm.me>"
     ],
     "license": "GPL-3.0",
     "repository": {
         "type": "git",
-        "url": "https://github.com/turtlecoin/node-cryptonote-util.git"
+        "url": "https://github.com/cirquity/cirquity-cryptonote-util.git"
     },
     "scripts": {
         "test": "node-gyp clean && node-gyp configure && node-gyp build && node test.js"
